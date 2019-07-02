@@ -8,5 +8,4 @@ def run():
     c = clear_data()
     c.clear_data()
 
-
 run()
