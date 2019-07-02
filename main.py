@@ -3,7 +3,7 @@
 # @Author : wangmengmeng
 from common.clear_data import clear_data
 
-# 111112
+# 1111122
 def run():
     c = clear_data()
     c.clear_data()
